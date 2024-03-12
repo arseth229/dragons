@@ -21,7 +21,7 @@ class Dragon {
 
 const tyler = new Dragon('tyler', 'green')
 
-Dragon.getDragons(tyler);
+// const allDragons = Dragon.getDragons(falkor, smaug);
 
 
 
